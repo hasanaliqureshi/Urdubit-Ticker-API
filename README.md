@@ -1,2 +1,1 @@
-# urdubit-ticker-api
-Urdubit.com Ticker API
+# Urdubit Live Ticker (WebSocket) API
