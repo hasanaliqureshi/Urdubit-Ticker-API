@@ -1,0 +1,17 @@
+{
+  "name": "Urdubit",
+  "version": "1.0.0",
+  "description": "urdubit ticker websocket api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "blinktrade": "0.0.19"
+  }
+}
